@@ -1,0 +1,388 @@
+Barbarian
+Human
+Error Monster 1
+Error Monster 2
+Error Monster 3
+Error Monster 4
+[Goblin Archer, 110 HP, 5 ATK]
+false
+false
+[Goblin Archer, 105 HP, 5 ATK]
+[Goblin Archer, 99 HP, 5 ATK]
+[Goblin Archer, 93 HP, 5 ATK]
+[Goblin Archer, 86 HP, 5 ATK]
+[Goblin Archer, 73 HP, 5 ATK]
+[Goblin Archer, 67 HP, 5 ATK]
+[Goblin Archer, 62 HP, 5 ATK]
+[Goblin Archer, 52 HP, 5 ATK]
+[Goblin Archer, 44 HP, 5 ATK]
+[Goblin Archer, 35 HP, 5 ATK]
+[Goblin Archer, 27 HP, 5 ATK]
+[Goblin Archer, 15 HP, 5 ATK]
+[Goblin Archer, 6 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+true
+false
+[Goblin Archer, 98 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 89 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 76 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 69 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 50 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 41 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 37 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 36 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 20 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 7 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+[Goblin Archer, 0 HP, 5 ATK, 5 DEF]
+true
+Error Hero 1
+Error Hero 2
+Error Hero 3
+Error Hero 4
+Error Hero 5
+[0, Jaina Proudmoore, (Wizard, Half-Elf, 1), {10, 13, 8, 8, 13, 11}, (9000/9000) HP]
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+20
+20
+20
+20
+20
+20
+[0, Jaina Proudmoore, (Wizard, Half-Elf, 20), {10, 13, 8, 8, 13, 11}, (9000/9000) HP]
+true
+[Goblin Archer, 0 HP, 6 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 3 DEF]
+false
+[Goblin Archer, 1 HP, 6 ATK, 3 DEF]
+[1, Jaina Proudmoore, (Wizard, Half-Elf, 3), {9, 12, 11, 8, 11, 13}, (0/69) HP]
+true
+[Goblin Archer, 0 HP, 3 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 1 DEF]
+false
+[Goblin Archer, 51 HP, 5 ATK, 3 DEF]
+false
+[Goblin Archer, 85 HP, 2 ATK, 3 DEF]
+false
+[Goblin Archer, 81 HP, 2 ATK, 3 DEF]
+[2, Jaina Proudmoore, (Wizard, Half-Elf, 3), {11, 9, 10, 10, 11, 9}, (0/69) HP]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 2 DEF]
+false
+[Goblin Archer, 37 HP, 2 ATK, 2 DEF]
+[3, Jaina Proudmoore, (Wizard, Half-Elf, 3), {12, 9, 10, 12, 10, 9}, (0/69) HP]
+true
+[Goblin Archer, 0 HP, 4 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 3 DEF]
+false
+[Goblin Archer, 51 HP, 6 ATK, 1 DEF]
+[4, Jaina Proudmoore, (Wizard, Half-Elf, 3), {13, 13, 12, 13, 13, 9}, (0/69) HP]
+true
+[Goblin Archer, 0 HP, 2 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+[5, Jaina Proudmoore, (Wizard, Half-Elf, 3), {10, 8, 8, 11, 12, 9}, (1/69) HP]
+true
+[Goblin Archer, 0 HP, 1 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+false
+[Goblin Archer, 7 HP, 2 ATK, 1 DEF]
+false
+[Goblin Archer, 87 HP, 1 ATK, 2 DEF]
+[6, Jaina Proudmoore, (Wizard, Half-Elf, 3), {13, 12, 13, 9, 11, 11}, (0/69) HP]
+true
+[Goblin Archer, 0 HP, 6 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 1 DEF]
+[7, Jaina Proudmoore, (Wizard, Half-Elf, 3), {9, 12, 12, 8, 10, 10}, (5/69) HP]
+true
+[Goblin Archer, 0 HP, 4 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 3 DEF]
+false
+[Goblin Archer, 44 HP, 1 ATK, 3 DEF]
+false
+[Goblin Archer, 81 HP, 6 ATK, 3 DEF]
+[8, Jaina Proudmoore, (Wizard, Half-Elf, 3), {11, 11, 13, 8, 10, 12}, (0/69) HP]
+true
+[Goblin Archer, 0 HP, 3 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 2 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 2 DEF]
+false
+[Goblin Archer, 17 HP, 6 ATK, 3 DEF]
+[9, Jaina Proudmoore, (Wizard, Half-Elf, 3), {11, 10, 13, 9, 9, 13}, (0/69) HP]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 1 DEF]
+true
+[Goblin Archer, 0 HP, 6 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 5 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+true
+[Goblin Archer, 0 HP, 1 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 3 ATK, 3 DEF]
+true
+[Goblin Archer, 0 HP, 4 ATK, 2 DEF]
+false
+[Goblin Archer, 36 HP, 6 ATK, 1 DEF]
+[10, Jaina Proudmoore, (Wizard, Half-Elf, 3), {10, 12, 9, 12, 9, 12}, (0/69) HP]
+Error Campaign 1
+Error Campaign 2
+[c1 Campaign, Min_Level 1, {}]
+Error Campaign 4
+[Tir nag Campaign, Min_Level 5, {[11, Jaina Proudmoore, (Wizard, Half-Elf, 6), {10, 11, 11, 9, 13, 12}, (400/400) HP], [12, Arthas, (Paladin, Human, 6), {12, 13, 8, 9, 10, 11}, (1000/1000) HP], [13, Thrall, (Warlock, Half-Orc, 6), {13, 10, 12, 8, 12, 9}, (20/20) HP], [14, Sylvanas, (Rogue, Elf, 6), {8, 12, 10, 12, 9, 8}, (100/100) HP]}]
+[Tir nag Campaign, Min_Level 5, {[11, Jaina Proudmoore, (Wizard, Half-Elf, 6), {10, 11, 11, 9, 13, 12}, (400/400) HP], [13, Thrall, (Warlock, Half-Orc, 6), {13, 10, 12, 8, 12, 9}, (0/20) HP], [14, Sylvanas, (Rogue, Elf, 6), {8, 12, 10, 12, 9, 8}, (0/100) HP]}]
+3
+[Tir nag Campaign, Min_Level 5, {[11, Jaina Proudmoore, (Wizard, Half-Elf, 6), {10, 11, 11, 9, 13, 12}, (400/400) HP]}]
+Error Player 1
+Error Player 2
+[John Smith, {}, []]
+[John Smith, {[15, Jaina Proudmoore, (Wizard, Half-Elf, 1), {8, 9, 13, 8, 12, 9}, (400/400) HP], [16, Arthas, (Paladin, Human, 1), {11, 9, 8, 12, 9, 13}, (1000/1000) HP]}, []]
+[]
+Error Player 5
+Error Player 3
+Error Player 4
+[Jane Doe, {[17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (20/20) HP]}, [Tir nag Campaign, Min_Level 1, {[17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (20/20) HP]}]]
+Error Player 6
+Error Player 7
+[Jane Doe, {[17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (20/20) HP]}, [Tir nag Campaign, Min_Level 1, {[15, Jaina Proudmoore, (Wizard, Half-Elf, 1), {8, 9, 13, 8, 12, 9}, (400/400) HP], [16, Arthas, (Paladin, Human, 1), {11, 9, 8, 12, 9, 13}, (1000/1000) HP], [17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (20/20) HP]}]]
+Error Player 8
+[Jane Doe, {[17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (20/20) HP]}, []]
+[John Smith, {[15, Jaina Proudmoore, (Wizard, Half-Elf, 1), {8, 9, 13, 8, 12, 9}, (400/400) HP], [16, Arthas, (Paladin, Human, 1), {11, 9, 8, 12, 9, 13}, (1000/1000) HP]}, [Tir nag Campaign, Min_Level 1, {[15, Jaina Proudmoore, (Wizard, Half-Elf, 1), {8, 9, 13, 8, 12, 9}, (400/400) HP], [16, Arthas, (Paladin, Human, 1), {11, 9, 8, 12, 9, 13}, (1000/1000) HP], [17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (20/20) HP]}]]
+Error Player 9
+[John Smith, {[15, Jaina Proudmoore, (Wizard, Half-Elf, 1), {8, 9, 13, 8, 12, 9}, (0/400) HP], [16, Arthas, (Paladin, Human, 1), {11, 9, 8, 12, 9, 13}, (0/1000) HP]}, [Tir nag Campaign, Min_Level 1, {[15, Jaina Proudmoore, (Wizard, Half-Elf, 1), {8, 9, 13, 8, 12, 9}, (0/400) HP], [16, Arthas, (Paladin, Human, 1), {11, 9, 8, 12, 9, 13}, (0/1000) HP], [17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (0/20) HP]}]]
+2
+[John Smith, {}, [Tir nag Campaign, Min_Level 1, {[17, Thrall, (Warlock, Half-Orc, 1), {10, 9, 9, 12, 12, 9}, (0/20) HP]}]]
+-------------------Task 1-------------------
+[GoBliN ARchEr, 2662000 HP, 222 ATK]
+[GoBliN ELitE ARchEr, 2662000 HP, 222 ATK]
+[BlUe DraGon, 2662000 HP, 222 ATK]
+[YoUng AdUlt BlUe DraGon, 2662000 HP, 222 ATK]
+-------------------Task 2-------------------
+Wins: 0, Loss: 0
+Wins: 6, Loss: 1
+Wins: 7, Loss: 0
+Wins: 7, Loss: 0
+Wins: 7, Loss: 0
+Wins: 7, Loss: 0
+Wins: 6, Loss: 1
+Wins: 3, Loss: 4
+Wins: 0, Loss: 7
+Wins: 0, Loss: 4
+Wins: 0, Loss: 4
+[Tir nag Campaign, Min_Level 2, {[18, Hero 1, (Wizard, Half-Elf, 5), {10, 8, 11, 10, 8, 11}, (0/1500) HP], [20, Hero 3, (Wizard, Half-Elf, 5), {13, 12, 10, 11, 12, 11}, (0/9000) HP], [21, Hero 4, (Wizard, Half-Elf, 5), {11, 13, 12, 10, 9, 8}, (0/1200) HP]}]
+-------------------Task 3-------------------
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (9000/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (9000/9000) HP]
+[Goblin Archer, 110 HP, 5 ATK]
+[Goblin Archer, 110 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (9000/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (9000/9000) HP]
+[Goblin Archer, 110 HP, 5 ATK]
+[Goblin Archer, 110 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8960/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8955/9000) HP]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8960/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8955/9000) HP]
+[Goblin Archer, 110 HP, 5 ATK]
+[Goblin Archer, 110 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8960/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8955/9000) HP]
+[Goblin Archer, 110 HP, 5 ATK]
+[Goblin Archer, 110 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8920/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8910/9000) HP]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8920/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8910/9000) HP]
+[Goblin Archer, 110 HP, 5 ATK]
+[Goblin Archer, 110 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8920/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8910/9000) HP]
+[Goblin Archer, 110 HP, 5 ATK]
+[Goblin Archer, 110 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8880/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8865/9000) HP]
+[Goblin Archer, 0 HP, 5 ATK]
+[Goblin Archer, 0 HP, 5 ATK]
+[22, Jaina Proudmoore, (Wizard, Half-Elf, 1), {11, 12, 11, 13, 11, 9}, (8880/9000) HP]
+[23, Jaina Proudmoore2, (Wizard, Half-Elf, 1), {11, 8, 9, 10, 9, 9}, (8865/9000) HP]
+[Goblin Archer, 110 HP, 5 ATK]
+[Goblin Archer, 110 HP, 5 ATK]
+-------------------Task 4-------------------
+-----------------------------------------------
+[24, Jaina Proudmoore, (Wizard, Half-Elf, 1), {9, 11, 11, 12, 10, 9}, (400/400) HP]
+-----------------------------------------------
+[24, Jaina Proudmoore, (Wizard, Half-Elf, 1), {9, 11, 11, 12, 10, 9}, (400/400) HP]
+[27, Sylvanas, (Rogue, Elf, 1), {11, 12, 13, 9, 12, 12}, (100/100) HP]
+-----------------------------------------------
+-----------------------------------------------

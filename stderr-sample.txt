@@ -1,0 +1,4 @@
+[Goblin Archer, 110 HP, 5 ATK]
+[0, Jaina Proudmoore, (Wizard, Half-Elf, 1), {10, 13, 8, 8, 13, 11}, (9000/9000) HP]
+[c1 Campaign, Min_Level 1, {}]
+[John Smith, {}, []]
